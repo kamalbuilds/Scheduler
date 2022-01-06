@@ -1,2 +1,2 @@
 # Scheduler
-this is learn
+this is learning of github commands
